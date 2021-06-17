@@ -1,2 +1,14 @@
 # DefensiveTurrets
-Minecraft's Defensive Turrets compatible for 1.17
+
+Fixed version of defensive turrets for v1.17
+Creating Eclipse Project Files:
+
+`./gradlew eclipse`
+
+Creating IDEA Project Files:
+
+`./gradlew idea`
+
+Building Project:
+
+`./gradlew build shadowJar`

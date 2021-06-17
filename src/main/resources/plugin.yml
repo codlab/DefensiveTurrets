@@ -1,0 +1,11 @@
+main: dt.ajneb97.DefensiveTurrets
+version: 3.14.6
+name: DefensiveTurrets
+author: Ajneb97
+api-version: 1.13
+softdepend: [Multiverse-Core,HolographicDisplays,Vault,Lands,CMI,BetterTeams,Citizens,Towny]
+
+commands:
+  dt:
+    description: Main Command of DefensiveTurrets
+    aliases: defensiveturrets
